@@ -1,4 +1,4 @@
 ;$
 name = Custom Anonymous
-description = Show blank anonymous name.
+description = Show blank anonymous name at comment box.
 core = 6.x

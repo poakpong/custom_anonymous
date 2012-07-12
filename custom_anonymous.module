@@ -3,7 +3,7 @@
 
 /**
  * @file
- * Show blank for anonymous, modify from http://drupal.org/node/240610#comment-1096024.
+ * Show blank for anonymous at comment box, modify from http://drupal.org/node/240610#comment-1096024.
  */
 
 function custom_anonymous_form_alter(&$form, $form_state, $form_id) {
