@@ -1,0 +1,13 @@
+<?php
+// Must work on Drupal 6
+
+/**
+ * @file
+ * Show blank for anonymous, modify from http://drupal.org/node/240610#comment-1096024.
+ */
+
+function custom_anonymous_form_alter(&$form, $form_state, $form_id) {
+    if( $form_id == "comment_form" ){
+        if( isset($form['name']['#default_value'])) $form['name']['#default_value'] = '';
+    }
+}

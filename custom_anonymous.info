@@ -1,0 +1,4 @@
+;$
+name = Custom Anonymous
+description = Show blank anonymous name.
+core = 6.x
