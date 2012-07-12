@@ -1,3 +1,3 @@
 ﻿* Custom Anonymous *
 
-OVERRIDE "Anonymous" at comment box on Drupal 6
+Show "Blank" override Anonymous at comment box on Drupal 6
